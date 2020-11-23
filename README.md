@@ -1,3 +1,11 @@
 # Colin's Notes
-# This is an H1 header
-###### This is an H6 header
+
+## Summary
+
+This repository contains all of the notes taken by [Colin](https://github.com/celsinga) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+## Links
+
+
+
+
